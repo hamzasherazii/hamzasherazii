@@ -1,3 +1,6 @@
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHEcz1LeT8wwQ/profile-displaybackgroundimage-shrink_350_1400/0/1675868084015?e=1684368000&v=beta&t=SuaFNrKpo61eWHXYjyDeHQg1lsjXNav80H803WgcGMo)](https://www.linkedin.com/in/hamzasherazi/)
+
+
 <h1 align="center">Hi 👋, I'm Hamza Sherazi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
