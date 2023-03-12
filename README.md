@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Sherazi</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="center" alt="Coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
+<img align="right" alt="Coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzasherazii&label=Profile%20views&color=0e75b6&style=flat" alt="hamzasherazii" /> </p>
 
