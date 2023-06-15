@@ -1,4 +1,5 @@
-I'm Hamza Sherazi, a passionate developer from Lahore, Pakistan (originally from Islamabad). My interests lie in the exciting realms of AI, Web3, and the Metaverse. Currently, I'm focused on honing my skills in Front End Web-App Development using React.
+
+👋 Hello! I'm Hamza Sherazi, a passionate developer from Lahore, Pakistan (originally from Islamabad). My interests lie in the exciting realms of AI, Web3, and the Metaverse. Currently, I'm focused on honing my skills in Front End Web-App Development using React.
 
 With a diverse skill set, including TypeScript, HTML, CSS, Bootstrap, JavaScript, TailwindCSS, PHP, SQL, and C++, I'm well-equipped to tackle a wide range of projects. Although I'm a beginner in NextJS and ReactJS, I'm eager to learn and expand my knowledge in these areas. Additionally, I have experience with Shadcn/UI, Photoshop, and Adobe Premiere Pro, enabling me to craft engaging and visually appealing content.
 
