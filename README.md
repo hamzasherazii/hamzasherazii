@@ -1,35 +1,9 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQHEcz1LeT8wwQ/profile-displaybackgroundimage-shrink_350_1400/0/1675868084015?e=1684368000&v=beta&t=SuaFNrKpo61eWHXYjyDeHQg1lsjXNav80H803WgcGMo)](https://www.linkedin.com/in/hamzasherazi/)
+I'm Hamza Sherazi, a passionate developer from Lahore, Pakistan (originally from Islamabad). My interests lie in the exciting realms of AI, Web3, and the Metaverse. Currently, I'm focused on honing my skills in Front End Web-App Development using React.
 
+With a diverse skill set, including TypeScript, HTML, CSS, Bootstrap, JavaScript, TailwindCSS, PHP, SQL, and C++, I'm well-equipped to tackle a wide range of projects. Although I'm a beginner in NextJS and ReactJS, I'm eager to learn and expand my knowledge in these areas. Additionally, I have experience with Shadcn/UI, Photoshop, and Adobe Premiere Pro, enabling me to craft engaging and visually appealing content.
 
-<h1 align="center">Hi 👋, I'm Hamza Sherazi</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
+In addition to my technical prowess, I'm also a content creator. You can explore my creative endeavors on my Linktree: linktr.ee/hamzasherazi.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzasherazii&label=Profile%20views&color=0e75b6&style=flat" alt="hamzasherazii" /> </p>
+If you have any exciting projects or employment opportunities, I'd love to hear from you! Feel free to reach out and let's discuss how we can collaborate to bring your ideas to life.
 
-
-<p align="left"> <a href="https://twitter.com/hamzasherazi_" target="blank"><img src="https://img.shields.io/twitter/follow/hamzasherazi_?logo=twitter&style=for-the-badge" alt="hamzasherazi_" /></a> </p>
-
-- 🔭 I’m currently working on **my portfolio website**
-
-- 🌱 I’m currently learning **React, React Native and TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://github.com/hamzasherazii](https://github.com/hamzasherazii)
-
-- 💬 Ask me about **Front-End technologies**
-
-- 📫 How to reach me **workwithhashez@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hamzasherazi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamzasherazi_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamzasherazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamzasherazi" height="30" width="40" /></a>
-<a href="https://fb.com/hamzathesherazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamzathesherazi" height="30" width="40" /></a>
-<a href="https://instagram.com/hamzasherazi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzasherazi_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@hamzasherazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@hamzasherazi" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamzasherazii&show_icons=true&locale=en" alt="hamzasherazii" /></p>
+Thank you for visiting my GitHub page, and I look forward to connecting with you soon!
