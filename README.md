@@ -17,9 +17,13 @@ Welcome to my GitHub repository! I'm an enthusiastic and dedicated Full Stack We
 **Technologies I Love**
 
 💻 JavaScript, TypeScript
+
 ⚛️ ReactJS, Next.js
+
 🎨 Tailwind CSS
+
 🧠 Solidity (Getting into Web3 development)
+
 ... and always exploring more!
 
 
