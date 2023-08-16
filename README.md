@@ -10,6 +10,7 @@ Welcome to my GitHub repository! I'm an enthusiastic and dedicated Full Stack We
 🎥 When I'm not coding or diving into the latest tech trends, I enjoy sharing my journey through content creation. Check out my YouTube channel for tutorials, coding challenges, and insights into my development process.
 
 **Technologies I Love**
+
 💻 JavaScript, TypeScript
 ⚛️ ReactJS, Next.js
 🎨 Tailwind CSS
@@ -17,12 +18,15 @@ Welcome to my GitHub repository! I'm an enthusiastic and dedicated Full Stack We
 ... and always exploring more!
 
 **Let's Connect!** 🌐
+
 Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/hamzasherazi/) to stay updated on my professional journey. I'm always open to networking and collaboration opportunities within the tech community.
 
 **Get in Touch**
+
 📫 You can reach out to me via email at hashezi2k3@gmail.com.
 
 **Stay Tuned!**
+
 Follow me on GitHub to stay up-to-date with my latest projects, contributions, and experiments in the realm of web development and blockchain technology. Don't hesitate to star repositories you find interesting, and let's learn and grow together! ✨
 
 
