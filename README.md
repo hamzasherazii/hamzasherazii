@@ -1,7 +1,7 @@
 
 **Hey there, I'm Hamza Sherazi!** 👋
 
-Welcome to my GitHub repository! I'm an enthusiastic and dedicated Full Stack Web3 Developer with a passion for creating immersive digital experiences. I'm a TypeScript aficionado, crafting seamless interfaces with Next.js and React.js. From elegantly styled UIs using Tailwind CSS to diving deep into the world of blockchain and Web3, I'm on an exciting journey of continuous learning and innovation. 🚀
+Welcome to my GitHub profile! I'm an enthusiastic and dedicated **Full Stack Web3 Developer** with a passion for creating immersive digital experiences. I'm a TypeScript aficionado, crafting seamless interfaces with Next.js and React.js. From elegantly styled UIs using Tailwind CSS to diving deep into the world of blockchain and Web3, I'm on an exciting journey of continuous learning and innovation. 🚀
 
 
 -----------------------------------------------------------------------------------------------------------------
