@@ -10,7 +10,7 @@ Welcome to my GitHub repository! I'm an enthusiastic and dedicated Full Stack We
 
 🎓 I'm currently pursuing my degree in Computer Science, constantly expanding my knowledge and honing my skills in the world of programming.
 
-🎥 When I'm not coding or diving into the latest tech trends, I enjoy sharing my journey through content creation. Check out my YouTube channel for tutorials, coding challenges, and insights into my development process.
+🎥 When I'm not coding or diving into the latest tech trends, I enjoy sharing my journey through content creation. Check out my YouTube channel (https://www.youtube.com/@hamzasherazi) for tutorials, coding challenges, and insights into my development process.
 
 
 
