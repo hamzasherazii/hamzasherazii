@@ -3,11 +3,16 @@
 
 Welcome to my GitHub repository! I'm an enthusiastic and dedicated Full Stack Web3 Developer with a passion for creating immersive digital experiences. I'm a TypeScript aficionado, crafting seamless interfaces with Next.js and React.js. From elegantly styled UIs using Tailwind CSS to diving deep into the world of blockchain and Web3, I'm on an exciting journey of continuous learning and innovation. 🚀
 
+
+
+
 **About Me**
 
 🎓 I'm currently pursuing my degree in Computer Science, constantly expanding my knowledge and honing my skills in the world of programming.
 
 🎥 When I'm not coding or diving into the latest tech trends, I enjoy sharing my journey through content creation. Check out my YouTube channel for tutorials, coding challenges, and insights into my development process.
+
+
 
 **Technologies I Love**
 
@@ -17,13 +22,19 @@ Welcome to my GitHub repository! I'm an enthusiastic and dedicated Full Stack We
 🧠 Solidity (Getting into Web3 development)
 ... and always exploring more!
 
+
+
 **Let's Connect!** 🌐
 
 Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/hamzasherazi/) to stay updated on my professional journey. I'm always open to networking and collaboration opportunities within the tech community.
 
+
+
 **Get in Touch**
 
 📫 You can reach out to me via email at hashezi2k3@gmail.com.
+
+
 
 **Stay Tuned!**
 
