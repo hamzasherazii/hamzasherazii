@@ -31,6 +31,13 @@ Welcome to my GitHub repository! I'm an enthusiastic and dedicated Full Stack We
 **Let's Connect!** 🌐
 
 Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/hamzasherazi/) to stay updated on my professional journey. I'm always open to networking and collaboration opportunities within the tech community.
+I share my progress on all my socials.
+
+Fiverr: https://www.fiverr.com/hashez_
+Facebook: https://www.facebook.com/HamzaTheSherazi
+Instagram: https://www.instagram.com/hamzasherazi_/
+X (twitter): https://twitter.com/hamzasherazi_
+
 
 -----------------------------------------------------------------------------------------------------------------
 
