@@ -34,13 +34,13 @@ Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/hamzashera
 
 I share my progress on all my socials.
 
-Fiverr: https://www.fiverr.com/hashez_
+Fiverr: https://www.fiverr.com/hashez_/
 
 Facebook: https://www.facebook.com/HamzaTheSherazi
 
 Instagram: https://www.instagram.com/hamzasherazi_/
 
-X (twitter): https://twitter.com/hamzasherazi_
+X (twitter): https://twitter.com/hamzasherazi_/
 
 
 
