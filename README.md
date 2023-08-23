@@ -59,4 +59,4 @@ Follow me on GitHub to stay up-to-date with my latest projects, contributions, a
 
 #FullStackWeb3 #TypeScriptEnthusiast #NextJS #ReactJS #TailwindCSS #CSStudent #WebDevelopment #Blockchain #ContentCreator #hashez #mindsetbanao #progress2gether #progresswithsherazi
 
-Looking forward to connecting with fellow developers, creators, and tech enthusiasts. Let's shape the future of the digital world together! 🌍👩‍💻👨‍💻
+Looking forward to connecting with fellow developers, creators, and tech enthusiasts. Let's shape the future of the digital world together! 🌍👩‍💻
