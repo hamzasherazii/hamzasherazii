@@ -1,14 +1,14 @@
 
 **Hey there, I'm Hamza Sherazi!** 👋
 
-Welcome to my GitHub profile! I'm an enthusiastic and dedicated **Full-Stack Web Developer** with a passion for creating immersive digital experiences. I'm a TypeScript aficionado, crafting seamless interfaces with Next.js and React.js. From elegantly styled UIs using Tailwind CSS to diving deep into the world of blockchain and Web3, I'm on an exciting journey of continuous learning and innovation. 🚀
+Welcome to my GitHub profile! I'm a passionate and dedicated Full-Stack Web Developer with a strong focus on Python and Django. I craft robust backend systems with Django and bring dynamic front-end interfaces to life using Next.js. From seamless API integrations to building powerful web applications, I’m constantly exploring new horizons in the world of web development. 🚀
 
 
 -----------------------------------------------------------------------------------------------------------------
 
 **About Me**
 
-🎓 I'm currently pursuing my degree in Computer Science, constantly expanding my knowledge and honing my skills in the world of programming.
+🎓 I hold an Associate's Degree in Computer Science and have completed a bootcamp at DigitalOcean, where I gained hands-on experience in DevOps. I’m continuously expanding my knowledge and refining my skills in Python and web development.
 
 🎥 When I'm not coding or diving into the latest tech trends, I enjoy sharing my journey through content creation. Check out my YouTube channel (https://www.youtube.com/@hamzasherazi) for tutorials, coding challenges, and insights into my development process.
 
@@ -16,21 +16,21 @@ Welcome to my GitHub profile! I'm an enthusiastic and dedicated **Full-Stack Web
 
 **Technologies I Love**
 
-💻 JavaScript, TypeScript
+💻 Python, JavaScript
 
-⚛️ ReactJS, Next.js
+🌐 Django, Next.js
 
 🎨 Tailwind CSS
 
-🧠 Solidity (Getting into Web3 development)
+🚀 Exploring Cloud & Web3 development
 
-... and always exploring more!
+... and always learning more!
 
 -----------------------------------------------------------------------------------------------------------------
 
 **Let's Connect!** 🌐
 
-Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/hamzasherazi/) to stay updated on my professional journey. I'm always open to networking and collaboration opportunities within the tech community.
+Feel free to connect with me on LinkedIn (https://www.linkedin.com/in/hamzasherazi/) to stay updated on my professional journey. I’m always open to networking and collaboration opportunities within the tech community.
 
 I share my progress on all my socials.
 
@@ -38,7 +38,7 @@ Fiverr: https://www.fiverr.com/hashez_/
 
 Facebook: https://www.facebook.com/HamzaTheSherazi
 
-Instagram: https://www.instagram.com/hamzasherazi_/
+Instagram: https://www.instagram.com/hamzasherazii/
 
 X (twitter): https://twitter.com/hamzasherazi_/
 
@@ -54,7 +54,7 @@ X (twitter): https://twitter.com/hamzasherazi_/
 
 **Stay Tuned!**
 
-Follow me on GitHub to stay up-to-date with my latest projects, contributions, and experiments in the realm of web development and blockchain technology. Don't hesitate to star repositories you find interesting, and let's learn and grow together! ✨
+Follow me on GitHub to stay up-to-date with my latest projects, contributions, and experiments in the realm of web development and cloud technology. Don't hesitate to star repositories you find interesting, and let's learn and grow together! ✨
 
 
 #FullStackWeb3 #TypeScriptEnthusiast #NextJS #ReactJS #TailwindCSS #CSStudent #WebDevelopment #Blockchain #ContentCreator #hashez #mindsetbanao #progress2gether #progresswithsherazi
