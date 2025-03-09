@@ -1,6 +1,6 @@
 **Hey there, I'm Hamza Sherazi!** 👋
 
-Welcome to my GitHub profile! I'm a passionate and dedicated Web Developer currently focusing on the MERN stack. I build backend systems with Node.js and create dynamic front-end interfaces using React. From API integrations to building web applications, I’m always exploring new areas in web development. 🚀
+Welcome to my GitHub profile! I'm a passionate and dedicated Web-App Developer currently focusing on the MERN stack. I build backend systems with Node.js and create dynamic front-end interfaces using React. From API integrations to building web applications, I’m always exploring new areas in web development. 🚀
 
 -----------------------------------------------------------------------------------------------------------------
 
